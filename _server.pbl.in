@@ -1,0 +1,7 @@
+icon=units/saurians/soothsayer/soothsayer.png
+title="Cold Blood"
+version="@VERSION@"
+author=shacknetisp
+type=campaign
+passphrase="@PASSPHRASE@"
+email="@EMAIL@"
