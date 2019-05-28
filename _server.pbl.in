@@ -3,6 +3,6 @@ title="Cold Blood"
 version="@VERSION@"
 author=shacknetisp
 type=campaign
-description="When an outpost of the Hardspike clan spies trespassers, the wronged saurians press forward on a vengeful, assassinatory path."
+description="@DESCRIPTION@"
 passphrase="@PASSPHRASE@"
 email="@EMAIL@"
